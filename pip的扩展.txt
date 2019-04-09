@@ -1,0 +1,13 @@
+本地虚拟环境命令：
+
+pip install virtualenv
+安装
+
+本地虚拟环境命令：
+C:\Users\Hasee\Desktop>cd C:\Users\Hasee\Desktop\mysite_env
+C:\Users\Hasee\Desktop\mysite_env>Scripts\activate
+(我的本机地址)
+
+退出命令：deactivate
+
+一健转移所安装库 pip freeze > requirments.txt
